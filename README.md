@@ -1,36 +1,53 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Yousif Mamdouh Portfolio
 
-## Getting Started
+Welcome to my Web Developer Portfolio! This website showcases my projects, skills, experience, and contact information.
 
-First, run the development server:
+![Portfolio Screenshot](/public/portfolio.png)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Table of Contents
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- [About](#about)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Contact](#contact)
+- [License](#license)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## About
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+This portfolio website is designed to demonstrate my abilities as a Web Developer. It includes a variety of projects that I've worked on, highlighting my skills in both front-end and back-end development. The site is fully responsive and designed with modern web technologies.
 
-## Learn More
+## Features
 
-To learn more about Next.js, take a look at the following resources:
+- **Responsive Design**: Works on all devices (mobile, tablet, desktop).
+- **Interactive UI/UX**: Smooth navigation and user-friendly design.
+- **Project Showcase**: Detailed descriptions and links to my projects.
+- **Skills Section**: Highlights my technical skills and tools I am proficient in.
+- **Contact Form**: Allows visitors to get in touch with me directly.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Technologies Used
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- **Frontend**:
 
-## Deploy on Vercel
+  - Node.js
+  - Next.js
+  - TailwindCSS
+  - Shadcn
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **Version Control**:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+  - Git & GitHub
+
+- **Deployment**:
+  - Vercel
+
+## Contact
+
+Feel free to reach out to me via the following channels:
+
+- **Email**: [YousifM.Helal@gmail.com](mailto:Yousifm.helal@gmail.com)
+- **WhatsApp**: [+201150509675](https://wa.me/+201150509675)
+- **LinkedIn**: [Yousif Mamdouh](https://www.linkedin.com/in/yousifmhelal/)
+
+## License
+
+Copyright © 2024 Yousif Mamdouh. All Rights Reserved.
