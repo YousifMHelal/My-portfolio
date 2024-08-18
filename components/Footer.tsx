@@ -9,7 +9,7 @@ const Footer = () => {
       <div className="flex flex-col gap-10 lg:gap-0 lg:flex-row items-center justify-between my-10 mx-auto w-full max-w-screen-xl px-2.5 md:px-20">
         <div className="flex flex-col gap-5">
           <div className="flex items-center gap-3 cursor-pointer">
-            <Image src="/logo.png" alt="logo" width={30} height={30} />
+            <Image src="/Logo.png" alt="logo" width={30} height={30} />
             <span className="text-secondary-foreground text-xl font-bold">
               Yousif
             </span>
