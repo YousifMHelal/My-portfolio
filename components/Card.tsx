@@ -81,7 +81,7 @@ const Card = () => {
                 Hire me
               </Link>
             </Button>
-            <Link
+            <a
               href="/Cv.pdf"
               download="Yousif Mamdouh"
               className={buttonVariants({
@@ -89,7 +89,7 @@ const Card = () => {
                 variant: "outline",
               })}>
               My CV
-            </Link>
+            </a>
           </div>
         </div>
       </div>

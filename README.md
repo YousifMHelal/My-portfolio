@@ -1,22 +1,22 @@
-# Yousif Mamdouh Portfolio
+# 🎉 Yousif Mamdouh Portfolio
 
 Welcome to my Web Developer Portfolio! This website showcases my projects, skills, experience, and contact information.
 
 ![Portfolio Screenshot](/public/portfolio.png)
 
-## Table of Contents
+## 📚 Table of Contents
 
-- [About](#about)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Contact](#contact)
-- [License](#license)
+- [📖 About](#-about)
+- [🔋 Features](#-features)
+- [⚙️ Tech Stack](#️-tech-stack)
+- [📞 Contact](#-contact)
+- [📜 License](#-license)
 
-## About
+## 📖 About
 
 This portfolio website is designed to demonstrate my abilities as a Web Developer. It includes a variety of projects that I've worked on, highlighting my skills in both front-end and back-end development. The site is fully responsive and designed with modern web technologies.
 
-## Features
+## 🔋 Features
 
 - **Responsive Design**: Works on all devices (mobile, tablet, desktop).
 - **Interactive UI/UX**: Smooth navigation and user-friendly design.
@@ -24,7 +24,7 @@ This portfolio website is designed to demonstrate my abilities as a Web Develope
 - **Skills Section**: Highlights my technical skills and tools I am proficient in.
 - **Contact Form**: Allows visitors to get in touch with me directly.
 
-## Technologies Used
+## ⚙️ Tech Stack
 
 - **Frontend**:
 
@@ -40,7 +40,7 @@ This portfolio website is designed to demonstrate my abilities as a Web Develope
 - **Deployment**:
   - Vercel
 
-## Contact
+## 📞 Contact
 
 Feel free to reach out to me via the following channels:
 
@@ -48,6 +48,6 @@ Feel free to reach out to me via the following channels:
 - **WhatsApp**: [+201150509675](https://wa.me/+201150509675)
 - **LinkedIn**: [Yousif Mamdouh](https://www.linkedin.com/in/yousifmhelal/)
 
-## License
+## 📜 License
 
 Copyright © 2024 Yousif Mamdouh. All Rights Reserved.

@@ -7,7 +7,7 @@ const Navbar = () => {
   return (
     <nav className="flex px-2 h-[80px] items-center justify-between">
       <div className="flex items-center gap-3 cursor-pointer">
-        <Image src="/logo.png" alt="logo" width={30} height={30} />
+        <Image src="/Logo.png" alt="logo" width={30} height={30} />
         <span className="text-secondary-foreground text-xl font-bold">
           Yousif
         </span>

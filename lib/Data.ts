@@ -55,7 +55,7 @@ export const Data: ItemType[] = [
   },
   {
     title: "E-commerce Application",
-    info: "Using my expertise in web development and e-commerce platforms, I built the website using modern technologies such as React, JavaScript, and Css. The website was optimized for speed and performance, ensuring that customers could browse and purchase products quickly and efficiently.",
+    info: "This React application is designed as the frontend interface for an e-commerce platform. It allows users to interact with product listings, perform searches, apply filters, and complete purchases. The design emphasizes a seamless and engaging user experience.",
     date: "December - 2022",
     images: ["/eco-pc.png", "/eco-mb.png"],
     techs: ["Node.js", "React.js", "JavaScript", "TailwindCSS"],
@@ -64,7 +64,7 @@ export const Data: ItemType[] = [
   },
   {
     title: "Teba | Simple Description Website",
-    info: "I worked on this project designing and developing using React, a powerful JavaScript library.",
+    info: "Teba is a React website serves as a digital presence for our company, which specializes in trading and distributing raw materials for detergents. The site provides information about the company, its products, and how to get in touch. It is designed to be user-friendly and responsive, ensuring a seamless experience across all devices.",
     date: "May - 2023",
     images: ["/teba-pc.png", "/teba-mb.png"],
     techs: ["Node.js", "React.js", "JavaScript", "TailwindCSS"],
@@ -73,10 +73,11 @@ export const Data: ItemType[] = [
   },
   {
     title: "Full-Stack Web developer | portfolio",
-    info: "This portfolio website is designed to demonstrate my abilities as a Web Developer. It includes a variety of projects that I’ve worked on, highlighting my skills in both front-end and back-end development. The site is fully responsive and designed with modern web technologies.",
+    info: "This project is a fullstack web application designed to serve as a personal portfolio. It highlights my professional journey, including my skills, projects, and experience. The website is fully responsive, providing an optimal viewing experience across a wide range of devices.",
     date: "August - 2021",
     images: ["/portfolio-pc.png", "/portfolio-mb.png"],
     techs: ["Node.js", "React.js", "JavaScript", "TailwindCSS", "React router"],
+    website: "https://web-portfolio-orcin-tau.vercel.app/",
     github: "https://github.com/YousifMHelal/Web-portfolio",
   },
 ];
