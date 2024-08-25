@@ -13,7 +13,7 @@ const roboto = Roboto({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Yousif Mamdouh portfolio",
-  description: "A cutting-edge SaaS platform that brings your business to the next level.",
+  description: "Yousif Mamdouh is a passionate web developer specializing in creating innovative, user-friendly websites. Explore my portfolio, projects, and get in touch to bring your ideas to life.",
   keywords: ["React.Js", "Next.Js", "JavaScript", "TypeScript"],
   author: "Yousif M.Helal",
 };
