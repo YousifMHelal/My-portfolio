@@ -59,7 +59,7 @@ const Footer = () => {
         </div>
       </div>
       <p className="text-center text-muted-foreground">
-        Copyright © 2024 Yousif M.Helal. All Rights Reserved.
+        Copyright &copy; 2024 Yousif M.Helal. All Rights Reserved.
       </p>
     </section>
   );

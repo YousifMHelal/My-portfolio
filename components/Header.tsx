@@ -11,14 +11,24 @@ const Header = () => {
     <section>
       <div className="flex flex-col items-center justify-center mt-[140px] mb-14">
         <div className="flex flex-col space-y-2 text-center">
-          <FadeText
-            className="text-4xl font-bold text-foreground"
-            direction="up"
-            framerProps={{
-              show: { transition: { delay: 0.2 } },
-            }}
-            text="Hi, I'm Yousif 👋"
-          />
+          <div className="flex items-center justify-center gap-2">
+            <FadeText
+              className="text-4xl md:text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-l from-primary to-secondary"
+              direction="up"
+              framerProps={{
+                show: { transition: { delay: 0.2 } },
+              }}
+              text="Hi, I'm Yousif"
+            />
+            <FadeText
+              className="text-4xl font-bold"
+              direction="up"
+              framerProps={{
+                show: { transition: { delay: 0.2 } },
+              }}
+              text="👋"
+            />
+          </div>
           <FadeText
             className="text-3xl lg:text-4xl font-bold text-muted-foreground mb-20"
             direction="up"

@@ -9,6 +9,17 @@ export const metadata: Metadata = {
   title: "Yousif Mamdouh | Portfolio",
   description:
     "Yousif Mamdouh is a passionate web developer specializing in creating innovative, user-friendly websites. Explore my portfolio, projects, and get in touch to bring your ideas to life.",
+  keywords: [
+    "React.js",
+    "Next.js",
+    "JavaScript",
+    "TypeScript",
+    "Web Development",
+    "Frontend",
+    "FullStack",
+    "HTML",
+    "CSS",
+  ],
 };
 
 export default function RootLayout({

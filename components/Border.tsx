@@ -12,10 +12,10 @@ import { ThemeProvider } from "@/providers/theme-provider";
 const roboto = Roboto({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "NextGen SaaS Platform",
+  title: "Yousif Mamdouh portfolio",
   description: "A cutting-edge SaaS platform that brings your business to the next level.",
-  keywords: ["SaaS", "business", "technology", "cloud"],
-  author: "NextGen Team",
+  keywords: ["React.Js", "Next.Js", "JavaScript", "TypeScript"],
+  author: "Yousif M.Helal",
 };
 
 export default function RootLayout({
@@ -25,10 +25,6 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <head>
-        <meta charSet="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      </head>
       <body className={roboto.className}>
         <ThemeProvider attribute="class" defaultTheme="light" enableSystem={true}>
 
