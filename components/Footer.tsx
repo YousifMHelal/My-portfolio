@@ -6,7 +6,7 @@ import { SiGmail } from "react-icons/si";
 const Footer = () => {
   return (
     <section className="flex flex-col mt-5 py-5 border-t-2 border-border">
-      <div className="flex flex-col gap-10 lg:gap-0 lg:flex-row items-center justify-between my-10 mx-auto w-full max-w-screen-xl px-2.5 md:px-20">
+      <div className="flex flex-col gap-10 lg:gap-0 md:flex-row items-center justify-between my-10 mx-auto w-full max-w-screen-xl px-2.5 lg:px-20">
         <div className="flex flex-col gap-5">
           <div className="flex items-center gap-3 cursor-pointer">
             <Image src="/Logo.png" alt="logo" width={30} height={30} />
