@@ -6,11 +6,11 @@ import Image from "next/image";
 
 const Card = () => {
   return (
-    <div className="perspective-1000">
-      <div className="relative w-[280px] h-[350px] transform-style-preserve-3d transition-transform-600 cursor-pointer hover:rotate-y-180">
+    <div className="card-container">
+      <div className="relative w-[280px] h-[350px] transform-style-preserve-3d cursor-pointer card">
         {/* <!-- Front Side --> */}
         <div className="absolute w-full h-full rounded-[20px] shadow-lg backface-hidden overflow-hidden">
-          <div className="relative w-full h-full">
+          <div className="relative w-full h-full shadow-md">
             <Image
               src="/Yousif.png"
               alt="yousif"
@@ -82,13 +82,13 @@ const Card = () => {
               </Link>
             </Button>
             <a
-              href="/Cv.pdf"
-              download="Yousif Mamdouh"
+              href="/Yousif Mamdouh.pdf"
+              download="Yousif Mamdouh.pdf"
               className={buttonVariants({
                 className: "text-accent-foreground",
                 variant: "outline",
               })}>
-              My CV
+              My Résumé
             </a>
           </div>
         </div>

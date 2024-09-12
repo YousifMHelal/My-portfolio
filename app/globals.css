@@ -80,6 +80,18 @@
   }
 }
 
+.card-container {
+  perspective: 1000px;
+}
+
+.card-container:hover > .card {
+  transform: rotateY(180deg);
+}
+
+.card {
+  transition: transform 1.5s;
+}
+
 .dot {
   background-color: var(--dot-primary);
   display: inline-block;
