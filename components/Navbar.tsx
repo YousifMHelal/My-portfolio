@@ -5,13 +5,8 @@ import { buttonVariants } from "./ui/button";
 
 const Navbar = () => {
   return (
-    <nav className="flex px-2 h-[80px] items-center justify-between">
-      <div className="flex items-center gap-3 cursor-pointer">
-        <Image src="/Logo.png" alt="logo" width={30} height={30} />
-        <span className="text-secondary-foreground text-xl font-bold">
-          Yousif
-        </span>
-      </div>
+    <nav className="flex px-2 h-[100px] items-center justify-between">
+      <Image src="/Logo.png" alt="logo" width={180} height={180} />
       <div className="flex items-center gap-4">
         <ModeToggle />
         <Link
@@ -19,7 +14,7 @@ const Navbar = () => {
           target="_blank"
           className={buttonVariants({})}>
           Contact Me
-        </Link>{" "}
+        </Link>
       </div>
     </nav>
   );

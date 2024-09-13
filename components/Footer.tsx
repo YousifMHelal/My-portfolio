@@ -8,12 +8,7 @@ const Footer = () => {
     <section className="flex flex-col mt-5 py-5 border-t-2 border-border">
       <div className="flex flex-col gap-10 lg:gap-0 md:flex-row items-center justify-between my-10 mx-auto w-full max-w-screen-xl px-2.5 lg:px-20">
         <div className="flex flex-col gap-5">
-          <div className="flex items-center gap-3 cursor-pointer">
-            <Image src="/Logo.png" alt="logo" width={30} height={30} />
-            <span className="text-secondary-foreground text-xl font-bold">
-              Yousif
-            </span>
-          </div>
+          <Image src="/Logo.png" alt="logo" width={180} height={180} />
           <p className="text-muted-foreground text-base pb-2">
             <span className="dot"></span> {`I'm currently available for work.`}
           </p>
