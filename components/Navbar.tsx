@@ -2,6 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { ModeToggle } from "./ModeToggle";
 import { buttonVariants } from "./ui/button";
+import clsx from "clsx";
 
 const Navbar = () => {
   return (
@@ -12,7 +13,7 @@ const Navbar = () => {
         <Link
           href="mailto:YousifM.Helal@gmail.com"
           target="_blank"
-          className={buttonVariants({})}>
+          className={clsx("hidden md:block", buttonVariants({}))}>
           Contact Me
         </Link>
       </div>
